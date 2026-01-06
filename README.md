@@ -1,7 +1,6 @@
-## Hi there 👋I was born as 10x engineer
+## Hi there 👋
+### ⚡ Fun fact: github commits do not show competent a dev is
 
-
-![funny dev meme](https://github.com/user-attachments/assets/efe56422-961b-4984-9328-d0b625294a76)
 
 
 
