@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img width="700" height="1167" alt="afbeelding" src="https://github.com/user-attachments/assets/9c7b024a-ccce-4cbf-802b-29e12f60ddaa" />
+![funny dev meme](https://github.com/user-attachments/assets/efe56422-961b-4984-9328-d0b625294a76)
+
 
 
 <!--
