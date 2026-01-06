@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋I was born as 10x engineer
 
-born as 10x engineer
+
 ![funny dev meme](https://github.com/user-attachments/assets/efe56422-961b-4984-9328-d0b625294a76)
 
 
