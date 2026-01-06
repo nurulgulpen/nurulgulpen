@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="700" height="1167" alt="afbeelding" src="https://github.com/user-attachments/assets/9c7b024a-ccce-4cbf-802b-29e12f60ddaa" />
+
+
 <!--
 **nurulgulpen/nurulgulpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
