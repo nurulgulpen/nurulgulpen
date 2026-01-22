@@ -1,5 +1,5 @@
 ## Hi there 👋
-### ⚡ Fun fact: github commits do not show competent a dev is
+### ⚡ Fun fact: github commits do not show how competent a dev is
 
 
 
