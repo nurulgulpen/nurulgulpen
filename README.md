@@ -1,5 +1,4 @@
-## Hi there 👋
-### ⚡ Fun fact: github commits do not show how competent a dev is
+## Hi 
 
 
 
