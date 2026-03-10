@@ -1,6 +1,7 @@
 ## Hi 
 
-
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=nurulgulpen)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurulgulpen)
 
 
 <!--
